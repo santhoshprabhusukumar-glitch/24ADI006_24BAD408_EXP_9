@@ -1,1 +1,3 @@
+# Text Classification and Text Generation Using Transformers
+This experiment demonstrates text classification and text generation using Transformer models. The IMDb movie review dataset is used to perform sentiment classification with a pretrained BERT model, which is fine-tuned to classify reviews as positive or negative. The model is evaluated using accuracy, precision, recall, and F1-score. A pretrained T5 model is used to generate summaries from sample text inputs. The experiment uses Python, PyTorch, Hugging Face Transformers, and Google Colab. The results help demonstrate how Transformer models understand text and perform different natural language processing tasks.
 # 24ADI006_24BAD408_EXP_9
